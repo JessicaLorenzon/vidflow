@@ -1,4 +1,4 @@
-#vidflow
+# vidflow
 
 Projeto criado durante o curso JavaScript: consumindo e tratando dados de uma API, da Alura.
 
